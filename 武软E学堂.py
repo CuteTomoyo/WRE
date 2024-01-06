@@ -11,8 +11,8 @@ import random
 url = "http://wrggk.whvcse.edu.cn/web/MyCourse.aspx"
 random_url = random.randint(2923947, 2935043)
 
-username = '2022090637'
-password = '030917@Tomoyo'
+username = '20'
+password = '03'
 
 url_login = f"https://wrggk.whvcse.edu.cn/auth.aspx?action=login&username={username}&password={password}&callback=?&random=1234567"
 
